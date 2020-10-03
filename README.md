@@ -38,3 +38,8 @@ Start emulator without loading the file:
 ```shell
 $ make emu
 ```
+
+## License
+
+This project is based on ZASM source licensed by Kio udner BSD-2.
+Other code is licesed under WTFPL 2.0.
